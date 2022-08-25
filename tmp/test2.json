@@ -1,0 +1,23 @@
+{
+  "fileName": "Airtable Apps UI Kit (Community)",
+  "lastModified": "2022-08-25T10:44:38Z",
+  "pages": {
+    "Components": [
+      "Cover",
+      "Spacing",
+      "Fonts",
+      "Text",
+      "Headings",
+      "Colors",
+      "Icons",
+      "Tokens",
+      "Buttons",
+      "Controls",
+      "Indicators",
+      "App frame",
+      "Record cards",
+      "Dialogs",
+      "Subcomponents"
+    ]
+  }
+}
